@@ -1,5 +1,5 @@
 {
-  "name": "@minlare/berkeley-vue-cli-plugin-pwa",
+  "name": "@minlare/vue-cli-plugin-berkeley-pwa",
   "version": "4.1.1",
   "description": "pwa plugin for vue-cli",
   "main": "index.js",
