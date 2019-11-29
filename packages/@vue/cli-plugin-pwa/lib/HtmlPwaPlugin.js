@@ -120,8 +120,7 @@ module.exports = class HtmlPwaPlugin {
           }),
           makeTag('link', {
             rel: 'mask-icon',
-            href: getTagHref(publicPath, iconPaths.maskIcon, assetsVersionStr),
-            color: themeColor
+            href: getTagHref(publicPath, iconPaths.maskIcon, assetsVersionStr)
           }),
 
           // Add to home screen for Windows
